@@ -1,6 +1,6 @@
 # ShotGlass
 
-ShotGlass is a simple, mental refreshment app: https://bubblyrobot.github.io/teamrepo/
+ShotGlass is a simple, mental refreshment app: https://tabouzeid.github.io/meditation_app/
 
 ## Description
 
